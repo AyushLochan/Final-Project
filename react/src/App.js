@@ -1,5 +1,4 @@
 import Routes from "./routes";
-
 import './App.css'
 import { AuthProvider } from "./auth/AuthProvider";
 
